@@ -13,8 +13,8 @@ The Hardware design is mainly comprised of 3 elements:
 - **The Node:** this is the brain of the system, which runs speedtests, geo-location, a blockchain node and WiFi hotspot.
 - **The Power Electronics:** this includes a 15W photovoltaic panel (PV), a charge controller to properly charge the battery and all DC/DC converters needed to regulate the power to the Node.
 
-![System Diagram](/benedetoula/assets/images/System%20Diagram.png)
-![System Diagram2](/main/assets/images/System%20Diagram2.png)
+![Image](/benedetoula/assets/images/System%20Diagram.png)
+![Image2](/main/assets/images/System%20Diagram2.png)
 ![Image2](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram.png)
 
 The enclosure of the GIGA Node was entirely custom designed and built to be adjustable, portable and transportable in a standard size carry-on for easy travel!
