@@ -13,7 +13,7 @@ The Hardware design is mainly comprised of 3 elements:
 - **The Node:** this is the brain of the system, which runs speedtests, geo-location, a blockchain node and WiFi hotspot.
 - **The Power Electronics:** this includes a 15W photovoltaic panel (PV), a charge controller to properly charge the battery and all DC/DC converters needed to regulate the power to the Node.
 
-![Image](/assets/images/System%20Diagram.png)
+![Image](/assets/System%20Diagram.png)
 ![Image2](/main/assets/images/System%20Diagram2.png)
 ![Image2](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram.png)
 ![test](https://benedetoula.github.com/GIGANode/blob/main/System%20Diagram.png)
