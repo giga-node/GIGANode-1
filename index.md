@@ -9,11 +9,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 When designing the GIGA Node we were really focused on making sure every part of the system was replaceable and serviceable while also minimizing the number of components used as much as possible, to simplify sourcing and maintenance.
 
 The Hardware design is mainly comprised of 3 elements:
-
 - **The Light Indicator:** this is a custom LED matrix that showcases the level of connectivity available.
 - **The Node:** this is the brain of the system, which runs speedtests, geo-location, a blockchain node and WiFi hotspot.
 - **The Power Electronics:** this includes a 15W photovoltaic panel (PV), a charge controller to properly charge the battery and all DC/DC converters needed to regulate the power to the Node.
-System Diagram.
+
+![System Diagram](/benedetoula/assets/images/System%20Diagram.png)
+![System Diagram2](/main/assets/images/System%20Diagram2.png)
+![Image2](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram.png)
 
 The enclosure of the GIGA Node was entirely custom designed and built to be adjustable, portable and transportable in a standard size carry-on for easy travel!
 
@@ -38,10 +40,3 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-![Image1](/GIGANode/assets/images/System%20Diagram2.png)  
-![Image1](https://github.com/benedetoula/assets/images/System%20Diagram2.png)  
-![Image1](https://github.com/benedetoula/main/assets/images/System%20Diagram.png)  
-
-/assets/images/electrocat.png
-
-![Image2](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram.png)
