@@ -38,5 +38,8 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-![Image1](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram2.png)
+![Image1](https://github.com/benedetoula/GIGANode/assets/images/System%20Diagram2.png)  
+
+/assets/images/electrocat.png
+
 ![Image2](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram.png)
