@@ -1,8 +1,6 @@
-# Welcome to GitHub Pages
+# Welcome to GIGA Node
 
-You can use the [editor on GitHub](https://github.com/benedetoula/GIGANode/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Short description here. 
 
 ## Hardware
 
@@ -13,32 +11,12 @@ The Hardware design is mainly comprised of 3 elements:
 - **The Node:** this is the brain of the system, which runs speedtests, geo-location, a blockchain node and WiFi hotspot.
 - **The Power Electronics:** this includes a 15W photovoltaic panel (PV), a charge controller to properly charge the battery and all DC/DC converters needed to regulate the power to the Node.
 
-![Image1](/assets/System%20Diagram.png)
-![Image2](/assets/System%20Diagram2.png)
+![Image](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram2.png)
 
-![Image3](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram.png)
-
+![Image](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram.png)
 
 The enclosure of the GIGA Node was entirely custom designed and built to be adjustable, portable and transportable in a standard size carry-on for easy travel!
 
-For a detailed Bill Of Materials please check this document.
-```markdown
-Syntax highlighted code block
+For a detailed [*Bill Of Materials*](https://docs.google.com/spreadsheets/d/1M344BFzDwndOonXr7UBz_JfK02XLmgQRAvrM4X4WKnk/edit#gid=0) please check this document.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+You can use the [editor on GitHub](https://github.com/benedetoula/GIGANode/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
