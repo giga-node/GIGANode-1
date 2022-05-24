@@ -10,9 +10,9 @@ When designing the GIGA Node we were really focused on making sure every part of
 
 The Hardware design is mainly comprised of 3 elements:
 
-**The Light Indicator:** this is a custom LED matrix that showcases the level of connectivity available.
-**The Node:** this is the brain of the system, which runs speedtests, geo-location, a blockchain node and WiFi hotspot.
-**The Power Electronics:** this includes a 15W photovoltaic panel (PV), a charge controller to properly charge the battery and all DC/DC converters needed to regulate the power to the Node.
+- **The Light Indicator:** this is a custom LED matrix that showcases the level of connectivity available.
+- **The Node:** this is the brain of the system, which runs speedtests, geo-location, a blockchain node and WiFi hotspot.
+- **The Power Electronics:** this includes a 15W photovoltaic panel (PV), a charge controller to properly charge the battery and all DC/DC converters needed to regulate the power to the Node.
 System Diagram.
 
 The enclosure of the GIGA Node was entirely custom designed and built to be adjustable, portable and transportable in a standard size carry-on for easy travel!
@@ -38,18 +38,5 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benedetoula/GIGANode/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-![https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram2.png](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram2.png)
-![https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram.png](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram.png)
-
-
-
-
-
+![Image1](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram2.png)
+![Image2](https://github.com/benedetoula/GIGANode/blob/main/System%20Diagram.png)
