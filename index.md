@@ -6,12 +6,12 @@ Short description here.
 
 When designing the GIGA Node we were really focused on making sure every part of the system was replaceable and serviceable while also minimizing the number of components used as much as possible, to simplify sourcing and maintenance.
 
+![Image](https://github.com/benedetoula/GIGANode/blob/gh-pages/System%20Diagram2.png)
+
 The Hardware design is mainly comprised of 3 elements:
 - **The Light Indicator:** this is a custom LED matrix that showcases the level of connectivity available.
 - **The Node:** this is the brain of the system, which runs speedtests, geo-location, a blockchain node and WiFi hotspot.
 - **The Power Electronics:** this includes a 15W photovoltaic panel (PV), a charge controller to properly charge the battery and all DC/DC converters needed to regulate the power to the Node.
-
-![Image](https://github.com/benedetoula/GIGANode/blob/gh-pages/System%20Diagram2.png)
 
 ![Image](https://github.com/benedetoula/GIGANode/blob/gh-pages/System%20Diagram.jpeg)
 
