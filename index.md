@@ -13,15 +13,7 @@ The Hardware design is mainly comprised of 3 elements:
 
 ![Image](https://github.com/benedetoula/GIGANode/blob/gh-pages/System%20Diagram2.png)
 
-![Image](/../main/assets/images/System%20Diagram.png)
-
 ![Image](https://github.com/benedetoula/GIGANode/blob/gh-pages/System%20Diagram.jpeg)
-
-
-![Image](https://github.com/benedetoula/GIGANode/blob/gh-pages/GIGA_logo.jpg)
-
-electrocat.png
-
 
 The enclosure of the GIGA Node was entirely custom designed and built to be adjustable, portable and transportable in a standard size carry-on for easy travel!
 
